@@ -1,0 +1,8 @@
+{
+  "description": "Esta é uma consignação de teste",
+  "weight": 550,
+  "containers": [
+    { "customers_id": "cust001", "user_id": "user001", "origin": "Manchester, United Kingdom" }
+  ],
+  "vessel_id": "vessel001"
+}
